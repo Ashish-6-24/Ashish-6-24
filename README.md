@@ -137,9 +137,6 @@ I focus on understanding how systems work, how they fail, and how to troubleshoo
 </div>
 
 ---
-### 📫 Connect With Me
-
-<div align="center">
 
 ### 📫 Connect With Me
 
