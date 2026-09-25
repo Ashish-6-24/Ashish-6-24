@@ -137,11 +137,6 @@ I focus on understanding how systems work, how they fail, and how to troubleshoo
 </div>
 
 ---
-### 📊 Activity Graph
-
-[![Ashish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-6-24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 ### 📫 Connect With Me
 
 <div align="center">
