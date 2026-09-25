@@ -145,7 +145,7 @@ I focus on understanding how systems work, how they fail, and how to troubleshoo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish Subedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsubedi04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish-Subedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsubedi04/)
 [![Email](https://img.shields.io/badge/Email-subediashish222%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subediashish222@gmail.com)
 
 </div>
