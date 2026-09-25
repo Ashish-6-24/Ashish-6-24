@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I'm currently learning and practicing **DevOps and Cloud Engineering** through hands-on labs, troubleshooting, automation, and my **90 Days of DevOps** journey documenting everything I learn, break, and fix along the way.
+I'm currently learning and practicing **DevOps Engineering** through hands-on labs, troubleshooting, automation, and my **90 Days of DevOps** journey documenting everything I learn, break, and fix along the way.
 
 ```text
 whoami        → Ashish Subedi
