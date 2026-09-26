@@ -115,7 +115,7 @@ Documenting my hands-on DevOps learning journey from fundamentals to advanced to
 
 </div>
 
-Actively seeking **entry-level opportunities** as a **DevOps Engineer**, **Platform Engineer** or **Site Reliability Engineer (SRE)** focused on building reliable, automated, and observable infrastructure from day one.
+Actively seeking **entry-level opportunities**, **Early Career**, **Junior**  as a **DevOps Engineer**, **Platform Engineer** or **Site Reliability Engineer (SRE)** focused on building reliable, automated, and observable infrastructure from day one.
 
 ---
 
