@@ -66,13 +66,13 @@ I'm an **Aspiring DevOps Engineer** focused on **Cloud, Infrastructure, Automati
 ## 💼 Open To Immediate Opportunities
 I'm interested in opportunities related to:
 
-Associate DevOps Engineer
-DevOps Engineer I
-Entry-level Site Reliability Engineer
-Cloud Support Engineer
-Build and Release Engineer
+- Associate DevOps Engineer
+- DevOps Engineer I
+- Entry-level Site Reliability Engineer
+- Cloud Support Engineer
+- Build and Release Engineer
 
-I'm especially interested in environments where I can contribute to real engineering work, learn from experienced engineers, and grow into larger infrastructure and reliability responsibilities.
+I'm especially interested in environments where I can contribute to real engineering work, learn from experienced engineers, and grow with the teams. 
 
 Open to **full-time DevOps opportunities**.
 
