@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm an **Early-Career DevOps Engineer** focused on **Cloud, Infrastructure, Automation and Reliability**. I'm building my skills through hands-on labs, troubleshooting, scripting, and real-world DevOps projects while documenting my journey in public.
+I'm an **Aspiring DevOps Engineer** focused on **Cloud, Infrastructure, Automation and Reliability**. I'm building my skills through hands-on labs, troubleshooting, scripting, and real-world DevOps projects while documenting my journey in public.
 
 - Currently working on **#90DaysOfDevOps**, Linux/Bash automation, cloud labs, and CI/CD practice
 - Building practical skills across Linux, Networking, Git, Python, Docker and AWS 
@@ -64,10 +64,15 @@ I'm an **Early-Career DevOps Engineer** focused on **Cloud, Infrastructure, Auto
 ---
 
 ## 💼 Open To Immediate Opportunities
-Where can contribute, take responsibility, learn from experienced engineers and grow with the team.
+I'm interested in opportunities related to:
 
-- **DevOps Engineer - Internship / Entry Level**
-- **Site Reliability Engineering (SRE) - Entry Level**
+Associate DevOps Engineer
+DevOps Engineer I
+Entry-level Site Reliability Engineer
+Cloud Support Engineer
+Build and Release Engineer
+
+I'm especially interested in environments where I can contribute to real engineering work, learn from experienced engineers, and grow into larger infrastructure and reliability responsibilities.
 
 Open to **full-time DevOps opportunities**.
 
