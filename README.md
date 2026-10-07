@@ -46,19 +46,6 @@ I'm an **Early-Career DevOps Engineer** focused on **Cloud, Infrastructure, Auto
 
 ---
 
-## 🔭 Building Next
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=terraform,kubernetes,githubactions,ansible,prometheus,grafana&perline=6" alt="Learning next" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-</div>
-
----
-
 ## 📌 Featured Projects
 ### 🚀 90 Days of DevOps ( Ongoing Progress ) 
 
