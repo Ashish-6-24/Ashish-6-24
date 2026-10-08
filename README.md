@@ -71,6 +71,8 @@ I'm interested in opportunities related to:
 - Entry-level Site Reliability Engineer
 - Cloud Support Engineer
 - Build and Release Engineer
+- Entry-level Platform Engineer
+- Entry-level Infrastructure Engineer 
 
 I'm especially interested in environments where I can contribute to real engineering work, learn from experienced engineers, and grow with the teams. 
 
